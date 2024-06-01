@@ -12,6 +12,8 @@ Javascript will usually be kept in an external resource which is referenced insi
 
 When we look at the javascript we may well find it has been *obfuscated* so we need to learn how to *deobfuscate* it so we can understand what it does on the app.
 
+https://github.com/puzz00/web-app-pen-testing/blob/main/deobfuscation/images/1.png
+
 ![js1](/images/1.png)
 
 ![js2](/images/2.png)
